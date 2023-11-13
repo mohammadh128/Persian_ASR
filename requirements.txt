@@ -1,0 +1,11 @@
+datasets==2.8.0
+transformers==4.26
+librosa
+evaluate>=0.30
+audiomentations
+jiwer
+gradio
+torchaudio
+tensorboardX
+accelerate -U
+hazm==0.7.0
